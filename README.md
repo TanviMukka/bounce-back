@@ -1,2 +1,2 @@
-# bounce-back
+# Bounce Back
 Haven Columbus' Bounce Back game
