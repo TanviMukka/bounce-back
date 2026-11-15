@@ -4,11 +4,11 @@ const SPEED = 900.0
 const JUMP_VELOCITY = -900.0
 
 var questions = [
-	{"question": "you run into a wall. what do you do?", "button1": "(1) stay there and cry", "button2": "(2) go to the hospital", "correct": 2},
-	{"question": "you forgot to send out the invites to your birthday party so nobody shows up. what do you do?", "button1": "(1) throw a fit", "button2": "(2) plan another party", "correct": 2},
-	{"question": "your partner just broke up with you. what do you do?", "button1": "(1) try to move on", "button2": "(2) get revenge on them", "correct": 1},
-	{"question": "you just got an F on your test. what do you do?", "button1": "(1) yell at your teacher", "button2": "(2) try to study more for the next one", "correct": 2},
-	{"question": "you just got rejected from franklin university. what do you do?", "button1": "(1) re-apply next year", "button2": "(2) sue the school", "correct": 1},
+	{"question": "you run into a wall. what do you do? (click 1 or 2 on your keyboard to select an option)", "button1": "(1) stay there and cry", "button2": "(2) go to the hospital", "correct": 2},
+	{"question": "you forgot to send out the invites to your birthday party so nobody shows up. what do you do? (click 1 or 2 on your keyboard to select an option)", "button1": "(1) throw a fit", "button2": "(2) plan another party", "correct": 2},
+	{"question": "your partner just broke up with you. what do you do? (click 1 or 2 on your keyboard to select an option)", "button1": "(1) try to move on", "button2": "(2) get revenge on them", "correct": 1},
+	{"question": "you just got an F on your test. what do you do? (click 1 or 2 on your keyboard to select an option)", "button1": "(1) yell at your teacher", "button2": "(2) try to study more for the next one", "correct": 2},
+	{"question": "you just got rejected from franklin university. what do you do? (click 1 or 2 on your keyboard to select an option)", "button1": "(1) re-apply next year", "button2": "(2) sue the school", "correct": 1},
 ]
 
 var current_question := 0

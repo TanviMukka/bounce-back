@@ -4,7 +4,7 @@ A small game in godot where a fox-human called Franklin has to jump on emerald p
 A game built by Tanvi, Hamsadhwani, and Fiona during Hack Club's Haven Columbus Hackathon.
 
 ### Live Demo Link
-[View Live Project]
+[View Live Project](https://shadow-d321.itch.io/franklin-bounce-back)
 
 ### Features
 - A fox named Franklin, who was wonderfully designed by Fiona and Hamsadhwani.
